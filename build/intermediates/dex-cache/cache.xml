@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wadi_123\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-e3212b01d4f776e1dfaec0bde899202ff96a2a58.jar" />
+    </item>
+    <item
+        jar="C:\Users\wadi_123\Desktop\New folder\Outh2AppForAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\wadi_123\Desktop\New folder\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\classes-12caaf2949f1191ca34f6faa09a46f600061b28b.jar" />
+    </item>
+    <item
+        jar="C:\Users\wadi_123\Desktop\New folder\Outh2AppForAndroid1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\wadi_123\Desktop\New folder\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\classes-60c334f79abf16821415026193bc0eebf2b1866b.jar" />
+    </item>
+    <item
+        jar="C:\Users\wadi_123\Desktop\New folder\Outh2AppForAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\wadi_123\Desktop\New folder\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-670f7d74c1c0c773fb2a732064d4a3be14610691.jar" />
+    </item>
+    <item
+        jar="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\classes-f4379eb7666625eac2f9d47086518e28ff319ecd.jar" />
+    </item>
+    <item
+        jar="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\classes-29109f9b6fbf3524fac51474712266f30daa086f.jar" />
+    </item>
+    <item
+        jar="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\wadi_123\Desktop\Kashyap\Outh2AppForAndroid1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-6c73633fcc3dbd2ebb0de1599737b65dd8df59da.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f6f3ec"
+    android:id="@+id/kl">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="7dp"
+
+            android:id="@+id/whatw">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/my"
+                android:id="@+id/AddPic"
+                android:paddingTop="6dp">
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageView"
+                    android:layout_gravity="center"
+                    android:src="@drawable/add_profilepic"
+                    android:layout_margin="7dp"
+                    android:layout_marginTop="0dp"
+
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#a7a7a7"
+                    android:text="Add Photo"
+                    android:id="@+id/textView5"
+                    android:textIsSelectable="false"
+                    android:textSize="12sp"
+                    android:layout_margin="7dp"
+                    android:layout_marginTop="0dp"
+
+                    android:layout_weight="3"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:inputType="textPersonName"
+                android:hint="    First Name"
+                android:background="@drawable/my"
+                android:ems="10"
+                android:id="@+id/firstnam"
+                android:layout_weight="1"
+                android:textColorHint="#a7a7a7"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="2dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:inputType="textPersonName"
+                android:background="@drawable/my"
+                android:hint="    Last Name"
+                android:ems="10"
+                android:id="@+id/lastnam"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:textColorHint="#a7a7a7"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="2dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#fefefe"
+            android:layout_marginTop="8dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text=" Mobile no."
+                    android:layout_alignBottom="@+id/button"
+                    android:layout_alignRight="@+id/imageButton"
+                    android:layout_alignEnd="@+id/imageButton"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginLeft="14dp"
+                    android:textStyle="normal"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="+91"
+                    android:id="@+id/textView"
+                    android:textColor="#a7a7a7"
+
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="2dp"
+                    android:textSize="15dp" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:inputType="phone"
+                    android:ems="10"
+                    android:id="@+id/mobile"
+                    android:layout_marginLeft="30dp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#fefefe"
+            android:layout_marginTop="8dp">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="    Gender"
+                android:id="@+id/textView66"
+                android:layout_alignBottom="@+id/button"
+                android:layout_alignRight="@+id/imageButton"
+                android:layout_alignEnd="@+id/imageButton"
+                android:layout_marginTop="14dp"
+                android:textStyle="normal"
+                android:textSize="15dp"
+                android:layout_marginLeft="4dp" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView2"
+                android:src="@drawable/male_selected"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="0dp" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView3"
+                android:src="@drawable/female_default" />
+
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:padding="10dp"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp">
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="15dp"
+                android:text="Date of Birth"
+                android:layout_marginLeft="8dp"
+                android:textStyle="normal"
+                android:layout_marginTop="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/tv_dateofbirth"
+                android:textColor="#a7a7a7"
+                android:text="DD / MM / YYYY"
+                android:textSize="15dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="5dp" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#fefefe"
+            android:layout_marginTop="8dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="    Marital Status"
+                android:id="@+id/textView67"
+                android:layout_alignBottom="@+id/button"
+                android:layout_alignRight="@+id/imageButton"
+                android:layout_alignEnd="@+id/imageButton"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="2dp"
+                android:textStyle="normal"
+                android:textSize="15dp" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Married"
+                android:id="@+id/checkBox"
+                android:textColor="#a7a7a7"
+                android:checked="false"
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Unmarried"
+                android:textColor="#a7a7a7"
+                android:id="@+id/checkBox2"
+                android:checked="false"
+                android:textSize="15dp" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:padding="5dp"
+            android:layout_marginTop="8dp"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:layout_height="50dp">
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.08"
+                android:textSize="15dp"
+                android:text="Anniversary"
+                android:layout_marginLeft="12dp"
+                android:textStyle="normal"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/tv_anniversary"
+                android:text="DD / MM / YYYY"
+                android:textColor="#a7a7a7"
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="59dp"
+            android:layout_marginTop="8dp">
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#f26522"
+                android:textColor="#ffffff"
+                android:text="NEXT >"
+                android:id="@+id/btnnext"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
