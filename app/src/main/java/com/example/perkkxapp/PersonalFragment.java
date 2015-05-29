@@ -92,6 +92,20 @@ public class PersonalFragment extends Fragment {
         ViewHolder.LinearLayout_Anniversary=(LinearLayout)v.findViewById(id.LinearLayout_Anniversary);
         ViewHolder.NextButton=(Button)v.findViewById(id.btnnext);
 
+        //validation code
+
+
+
+
+
+
+
+
+
+
+
+
+
         ViewHolder.nextbt.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -231,7 +245,8 @@ public class PersonalFragment extends Fragment {
             public void onClick(View v) {
                 // TODO Auto-generated method stub
                 new PostJson().execute();
-
+                /*Intent i=new Intent (v.getContext(),CorporateFragment.class);
+                startActivity(i);*/
 
             }
         });
@@ -314,86 +329,89 @@ public class PersonalFragment extends Fragment {
 
     }
 
-    static class ViewHolder
-    {
-        private static  EditText firstname;
-        private static EditText lastname;
-        private static EditText phonenumber;
-        private static Button nextbt;
-        private static ImageView imageView;
-        private static TextView tv_dateofbirth;
-        private static TextView tv_anniversary;
-        private static TextView addphoto;
-        private static ImageView Male_Image;
-        private static ImageView Female_Image;
-        private static CheckBox Married_CheckBox;
-        private static CheckBox UnMarried_CheckBox;
-        private static LinearLayout LinearLayout_Anniversary;
-        private static Button NextButton;
+static class ViewHolder
+{
+    private static  EditText firstname;
+    private static EditText lastname;
+    private static EditText phonenumber;
+    private static Button nextbt;
+    private static ImageView imageView;
+    private static TextView tv_dateofbirth;
+    private static TextView tv_anniversary;
+    private static TextView addphoto;
+    private static ImageView Male_Image;
+    private static ImageView Female_Image;
+    private static CheckBox Married_CheckBox;
+    private static CheckBox UnMarried_CheckBox;
+    private static LinearLayout LinearLayout_Anniversary;
+    private static Button NextButton;
+}
+
+
+private class PostJson extends AsyncTask<string,string,string>
+{
+
+    @Override
+    protected void onPreExecute() {
+        super.onPreExecute();
     }
 
+    @Override
+    protected string doInBackground(string... args) {
 
-    private class PostJson extends AsyncTask<string,string,string>
-    {
-
-        @Override
-        protected void onPreExecute() {
-            super.onPreExecute();
+        List<NameValuePair> params = new ArrayList<NameValuePair>();
+        params.add(new BasicNameValuePair("fname", ViewHolder.firstname.getText().toString()));
+        params.add(new BasicNameValuePair("lname", ViewHolder.lastname.getText().toString()));
+        params.add(new BasicNameValuePair("phoneNumber", ViewHolder.phonenumber.getText().toString()));
+        params.add(new BasicNameValuePair("tv_dateofbirth", ViewHolder.tv_dateofbirth.getText().toString()));
+        params.add(new BasicNameValuePair("IsMarried", String.valueOf(IsMarried)));
+        if (IsMarried)
+        {
+            params.add(new BasicNameValuePair("tv_anniversary", ViewHolder.tv_anniversary.getText().toString()));
         }
-
-        @Override
-        protected string doInBackground(string... args) {
-
-            List<NameValuePair> params = new ArrayList<NameValuePair>();
-            params.add(new BasicNameValuePair("fname", ViewHolder.firstname.getText().toString()));
-            params.add(new BasicNameValuePair("lname", ViewHolder.lastname.getText().toString()));
-            params.add(new BasicNameValuePair("phoneNumber", ViewHolder.phonenumber.getText().toString()));
-            params.add(new BasicNameValuePair("tv_dateofbirth", ViewHolder.tv_dateofbirth.getText().toString()));
-            params.add(new BasicNameValuePair("IsMarried", String.valueOf(IsMarried)));
-            if (IsMarried)
-            {
-                params.add(new BasicNameValuePair("tv_anniversary", ViewHolder.tv_anniversary.getText().toString()));
-            }
-            params.add(new BasicNameValuePair("gender", String.valueOf(IsMale)));
+        params.add(new BasicNameValuePair("gender", String.valueOf(IsMale)));
 
 
-            // getting JSON Object
-            // Note that create product url accepts POST method
-            JSONObject json = JSONfunctions.makeHttpRequest(url_new_user,
-                    "POST", params);
+        // getting JSON Object
+        // Note that create product url accepts POST method
+        JSONObject json = JSONfunctions.makeHttpRequest(url_new_user,
+                "POST", params);
 
-            // check log cat fro response
-            Log.d("Create Response", json.toString());
+        // check log cat fro response
+        Log.d("Create Response", json.toString());
 
-            // check for success tag
-            try {
-                int success = json.getInt(TAG_SUCCESS);
+        // check for success tag
+        try {
+            int success = json.getInt(TAG_SUCCESS);
 
-                if (success == 1) {
+            if (success == 1) {
 
-                    Toast.makeText(context,TAG_SUCCESS,Toast.LENGTH_LONG).show();
+                Toast.makeText(context,TAG_SUCCESS,Toast.LENGTH_LONG).show();
 
-                    // successfully created product
+                // successfully created product
 //                Intent i = new Intent(getApplicationContext(), MainActivity.class);
 //                startActivity(i);
 //
 //                // closing this screen
 //                finish();
-                } else {
-                    // failed to create product
-                }
-            } catch (JSONException e) {
-                e.printStackTrace();
+            } else {
+                // failed to create product
             }
-
-            return null;
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
 
-        @Override
-        protected void onPostExecute(string string) {
-            super.onPostExecute(string);
-        }
+        return null;
     }
+
+    @Override
+    protected void onPostExecute(string string) {
+        super.onPostExecute(string);
+    }
+
+
+}
+
 
 
 }
