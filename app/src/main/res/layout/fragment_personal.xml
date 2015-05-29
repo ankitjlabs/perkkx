@@ -6,8 +6,13 @@
     android:id="@+id/kl">
 
 
-
-
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
     <LinearLayout
         android:orientation="horizontal"
@@ -84,7 +89,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:inputType="textPersonName"
-                android:hint="    First Name"
+                android:gravity="center"
+                android:hint="First Name"
                 android:background="@drawable/my"
                 android:ems="10"
                 android:id="@+id/firstnam"
@@ -98,7 +104,8 @@
                 android:layout_height="match_parent"
                 android:inputType="textPersonName"
                 android:background="@drawable/my"
-                android:hint="    Last Name"
+                android:gravity="center"
+                android:hint="Last Name"
                 android:ems="10"
                 android:id="@+id/lastnam"
                 android:layout_weight="1"
@@ -325,6 +332,7 @@
 
 
     </LinearLayout>
-
+    </LinearLayout>
+</ScrollView>
 
 </LinearLayout>

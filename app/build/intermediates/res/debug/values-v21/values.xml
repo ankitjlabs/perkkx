@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/wadi_123/Desktop/New%20folder/Outh2AppForAndroid1/app/src/main/res/values-v21/styles.xml -->
+    <!-- From: file:/C:/Users/Jlabs/perkkx_app/perkkx/app/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
     <style name="MyMaterialTheme" parent="AppBaseTheme">
         <item name="android:windowContentTransitions">true</item>
