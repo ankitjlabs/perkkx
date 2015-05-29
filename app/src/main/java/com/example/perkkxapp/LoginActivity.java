@@ -38,13 +38,13 @@ public class LoginActivity extends Activity {
   WebView web;
   Button auth;
   SharedPreferences pref;
-  TextView Access;
+  //TextView Access;
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.login_layout);
     pref = getSharedPreferences("AppPref", MODE_PRIVATE);
-        Access =(TextView)findViewById(R.id.desc);
+        //Access =(TextView)findViewById(R.id.desc);
     auth = (Button)findViewById(R.id.button);
     auth.setOnClickListener(new View.OnClickListener() {
       Dialog auth_dialog;
@@ -143,7 +143,7 @@ public class LoginActivity extends Activity {
                  Log.d("Expire", expire);
                  Log.d("Refresh", refresh);
                    auth.setText("Authenticated");
-                   Access.setText("Access Token:"+tok+"nExpires:"+expire+"nRefresh Token:"+refresh);
+                  // Access.setText("Access Token:"+tok+"nExpires:"+expire+"nRefresh Token:"+refresh);
           } catch (JSONException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
