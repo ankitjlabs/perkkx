@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F3EC"
+    android:weightSum="1">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:background="#FFFFFF">
+        <Spinner
+            android:layout_width="347dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/spnr" />
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#EEEEEE"
+            android:layout_margin="5dp"
+            />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/search_icon"
+            android:layout_gravity="center_vertical" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/my"
+        android:layout_margin="10dp"
+        android:layout_weight="0.03"
+        android:layout_gravity="center_vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:layout_marginTop="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/vendor"
+                android:text="Dummy Vendor"
+                android:layout_marginLeft="10dp"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/vendoradd"
+                android:layout_marginLeft="10dp"
+                android:lines="2"
+                android:textColor="#5c5c5c"
+                android:text="Dummy Vendors Adress"
+                android:textSize="15sp"
+                android:layout_weight="0.97" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ratingfollow"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/rating"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/vendorrating"
+                android:layout_marginLeft="5dp"
+
+
+                android:text="4.5"
+                android:textSize="15sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dd/mm/yyyy"
+                android:id="@+id/date"
+                android:textColor="#5c5c5c"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:gravity="right"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
