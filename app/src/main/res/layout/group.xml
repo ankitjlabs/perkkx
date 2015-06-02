@@ -252,10 +252,7 @@
                     android:layout_height="wrap_content"
                     android:text="PERSONAL CARE"
                     android:textColor="#fefefe"
-
-
                     android:textSize="15sp"
-
                     android:layout_marginTop="10dp" />
             </LinearLayout>
 
