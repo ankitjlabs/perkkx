@@ -6,7 +6,7 @@
     android:background="@drawable/homebtn"
 
     tools:context="androidhive.info.materialdesign.activity.HomeFragment"
-    android:id="@+id/home">
+    >
 
 
     <LinearLayout
@@ -15,16 +15,14 @@
         android:alpha="0.5"
         android:layout_width="match_parent"
         android:layout_height="30dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
+
         >
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:id="@+id/totalperkkx"
+            android:id="@+id/totalperkkxavailable"
             android:text="Total 225 Perkkx Available"
             android:textColor="#fefefe"
             android:layout_gravity="center"
@@ -67,15 +65,17 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:background="@drawable/dinning_icon"
-                    android:layout_gravity="center"/>
+                    android:layout_gravity="center"
+                    android:id="@+id/diningbtn"/>
                 <TextView
-                    android:id="@+id/bVio_count"
+                    android:id="@+id/dinning_offers"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Offers"
                     android:textSize="12sp"
                     android:textColor="#FFFFFF"
                     android:background="@drawable/raund22"
+                    android:layout_gravity="right"
                     />
 
 
@@ -115,14 +115,16 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:background="@drawable/fitness_icon"
-                        android:layout_gravity="center"/>
+                        android:layout_gravity="center"
+                        android:id="@+id/fitnessbtn"/>
                     <TextView
-                        android:id="@+id/bVio_count"
+                        android:id="@+id/fitnessoffers"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Offers"
                         android:textSize="12sp"
                         android:textColor="#FFFFFF"
+                        android:layout_gravity="right"
                         android:background="@drawable/raund22"
                         />
 
@@ -173,14 +175,16 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:background="@drawable/beauty_icon"
-                        android:layout_gravity="center"/>
+                        android:layout_gravity="center"
+                        android:id="@+id/beautybtn"/>
                     <TextView
-                        android:id="@+id/bVio_count"
+                        android:id="@+id/beautyoffers"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Offers"
                         android:textSize="12sp"
                         android:textColor="#FFFFFF"
+                        android:layout_gravity="right"
                         android:background="@drawable/raund22"
                         />
 
@@ -222,15 +226,18 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:background="@drawable/personal_care_icon"
-                        android:layout_gravity="center"/>
+                        android:layout_gravity="center"
+                        android:id="@+id/personalcarebtn"/>
                     <TextView
-                        android:id="@+id/bVio_count"
+                        android:id="@+id/personalcareoffers"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Offers"
                         android:textSize="12sp"
                         android:textColor="#FFFFFF"
+                        android:layout_gravity="right"
                         android:background="@drawable/raund22"
+
                         />
 
 
