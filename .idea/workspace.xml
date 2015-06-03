@@ -5,12 +5,60 @@
       <config />
     </shared>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfa4b19-a6b9-44b9-8d0a-2bb5cd2646d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml" />
+    <list default="true" id="adfa4b19-a6b9-44b9-8d0a-2bb5cd2646d7" name="Default" comment="raghv swiper">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_savings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/CorporateFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/CorporateFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Dinning.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Dinning.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Drinking.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Drinking.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Food.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Food.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Home.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Home.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/HomeSecond.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/HomeSecond.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/ImageLoader$BitmapDisplayer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/ImageLoader$BitmapDisplayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/ImageLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/ImageLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/InterestFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/InterestFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/ListViewAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/ListViewAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/MainUtilpage$DownloadJSON.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/MainUtilpage$DownloadJSON.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/MainUtilpage.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/MainUtilpage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Merchant_Activity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/Merchant_Activity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/PersonalFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/PersonalFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/SingleItemView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/SingleItemView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/reedem_popup.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/perkkxapp/reedem_popup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/Home.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/Home.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/perkkxapp/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/perkkxapp/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/corporate_xml.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/corporate_xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/group.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/group.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/redeem_popup.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/redeem_popup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/single.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/single.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/single.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/single.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="perkkx.iws" />
@@ -27,30 +75,27 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="perkkx" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fragment_personal.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml">
+      <file leaf-file-name="group.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/group.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.034483">
-              <caret line="73" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="337" selection-end-column="15" />
-              <folding>
-                <element signature="n#LinearLayout#0;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#LinearLayout#1;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#1;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#CheckBox#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#CheckBox#1;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -58,22 +103,99 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_personal_textview.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml">
+      <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/Home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49340865">
-              <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
-              <folding>
-                <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-                <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_savings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/my_savings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/single.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterestFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/InterestFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7176781">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/LoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="122" column="18" selection-start-line="122" selection-start-column="18" selection-end-line="122" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saving.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/saving.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -82,7 +204,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -1038,7 +1162,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4294418071573" />
+        <entry key="$PROJECT_DIR$" value="4296263016202" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1289,6 +1413,26 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/connected_accounts.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/test.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/followed_merchants.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/myperkkx_code.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/corporate_xml.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/myprofile_corporate.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/redeem_popup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/myedit.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/raund22.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/PersonalFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/group.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/my.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/saving.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/my_savings.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/single.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/Home.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/LoginActivity.java" />
       </list>
     </option>
   </component>
@@ -1359,6 +1503,24 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perkkx" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1378,11 +1540,43 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perkkx" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perkkxapp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perkkx" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1390,7 +1584,10 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="c7284faf" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="319" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1553,14 +1750,33 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="Please select a project..." />
       <option name="IS_VALID_CLOUD_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="Matrix configuration not specified" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.Unnamed" />
     </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -1586,32 +1802,99 @@
       <option name="number" value="Default" />
       <updated>1432899514458</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd layout for personal layout asked by Vikkas ji..&#10;it has text views in place of edit texts.">
+      <created>1433003354621</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1433003354621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Connected accounts layout &#10;3.Menu_General_Connected Accounts.png">
+      <created>1433015521293</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1433015521293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Followed Merchants layout&#10;3.Menu_Profile_Followed Merchants_Collapsed.png">
+      <created>1433040189431</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1433040189431</updated>
+    </task>
+    <task id="LOCAL-00004" summary="My Perkkx code layout&#10;3.Menu_Profile_My Perkkx Codes_Expired.png">
+      <created>1433070430054</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1433070430054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="corporate layout changes">
+      <created>1433074078971</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1433074078971</updated>
+    </task>
+    <task id="LOCAL-00006" summary="my profile textviews corporate tab...&#10;">
+      <created>1433078806069</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1433078806069</updated>
+    </task>
+    <task id="LOCAL-00007" summary="raghv swiper">
+      <created>1433132990453</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1433132990453</updated>
+    </task>
+    <task id="LOCAL-00008" summary="group and home page addition...">
+      <created>1433142012809</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1433142012809</updated>
+    </task>
+    <task id="LOCAL-00009" summary="category page..&#10;">
+      <created>1433244150440</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1433244150440</updated>
+    </task>
+    <task id="LOCAL-00010" summary="drawable file for category&#10;raund22.xml">
+      <created>1433246584418</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1433246584419</updated>
+    </task>
+    <task id="LOCAL-00011" summary="my_savings layout">
+      <created>1433252091149</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1433252091149</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37897125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18683812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35204083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30782312" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18683812" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37065053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1625,11 +1908,311 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd layout for personal layout asked by Vikkas ji..&#10;it has text views in place of edit texts." />
+    <MESSAGE value="Connected accounts layout &#10;3.Menu_General_Connected Accounts.png" />
+    <MESSAGE value="Followed Merchants layout&#10;3.Menu_Profile_Followed Merchants_Collapsed.png" />
+    <MESSAGE value="My Perkkx code layout&#10;3.Menu_Profile_My Perkkx Codes_Expired.png" />
+    <MESSAGE value="corporate layout changes" />
+    <MESSAGE value="my profile textviews corporate tab...&#10;" />
+    <MESSAGE value="raghv swiper" />
+    <MESSAGE value="group and home page addition..." />
+    <MESSAGE value="category page..&#10;" />
+    <MESSAGE value="drawable file for category&#10;raund22.xml" />
+    <MESSAGE value="my_savings layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="my_savings layout" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/PersonalFragment.java</url>
+          <line>248</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/myperkkx_code.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dinning.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/corporate_xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="98" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/myprofile_corporate.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_interest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="625" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="337" selection-end-column="15" />
+          <folding>
+            <element signature="n#LinearLayout#0;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#1;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#1;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#CheckBox#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#CheckBox#1;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding>
+            <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/connected_accounts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/followed_merchants.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/myperkkx_code.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/corporate_xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_interest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="625" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="337" selection-end-column="15" />
+          <folding>
+            <element signature="n#LinearLayout#0;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#1;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#1;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#CheckBox#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#CheckBox#1;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding>
+            <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/connected_accounts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_interest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="625" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="337" selection-end-column="15" />
+          <folding>
+            <element signature="n#LinearLayout#0;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#1;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#1;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#CheckBox#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#CheckBox#1;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding>
+            <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#ImageView#1;n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#3;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#4;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+            <element signature="n#TextView#0;n#LinearLayout#5;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1656,7 +2239,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.034483">
+        <state vertical-scroll-proportion="0.0">
           <caret line="73" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="337" selection-end-column="15" />
           <folding>
             <element signature="n#LinearLayout#0;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
@@ -1678,9 +2261,20 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_personal_textview.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49340865">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
           <folding>
             <element signature="n#LinearLayout#2;n#LinearLayout#1;n#LinearLayout#0;n#ScrollView#0;n#LinearLayout#0;n#!!top" expanded="false" />
@@ -1693,6 +2287,255 @@
       </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_interest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="625" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/connected_accounts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/myperkkx_code.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/corporate_xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="98" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/myprofile_corporate.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/reedem_popup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/redeem_popup.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1034484">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/deal_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dinning.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/followed_merchants.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/rounded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/HomeSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/second.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android_Sdk/android-sdk-windows/sources/android-22/android/app/DatePickerDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/PersonalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/raund22.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/my.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/saving.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/my_savings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/InterestFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/single.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/perkkxapp/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="18" selection-start-line="122" selection-start-column="18" selection-end-line="122" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7176781">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
