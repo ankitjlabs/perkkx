@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F3EC"
+    android:weightSum="1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_shape">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="You saved"
+                android:textSize="18sp"
+                android:id="@+id/t1"/>
+            <TextView
+                android:layout_toRightOf="@id/t1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tsaved"
+                android:layout_marginLeft="5dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Rs. 180"/>
+            <TextView
+                android:layout_toRightOf="@id/tsaved"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/t2"
+                android:textSize="18sp"
+                android:layout_marginLeft="5dp"
+                android:text="on a bill of"
+                />
+            <TextView
+                android:layout_toRightOf="@id/t2"
+                android:layout_width="wrap_content"
+                android:textStyle="bold"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/tactual"
+                android:textSize="18sp"
+                android:text="Rs. 620"/>
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#505050"
+                android:text="DD/MM/YYYY"
+                android:layout_below="@id/t1"/>
+
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_margin="2dp"
+            android:layout_height="wrap_content">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+                <ImageView
+                    android:background="@drawable/newback"
+                    android:id="@+id/imageview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:background="#000000"
+                    android:alpha=".7"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="bottom">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="bottom"
+                    android:weightSum="1">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Food Maniac"
+                        android:layout_gravity="bottom"
+                        android:layout_marginLeft="10dp"
+
+                        android:textSize="30sp"
+
+                        android:textColor="#fefefe"
+                        android:layout_weight="0.91" />
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="2.5KM"
+                        android:textColor="#fefefe"
+
+                        android:layout_gravity="center_horizontal|bottom"
+
+                        android:drawableTop="@drawable/distance_icon"
+                       />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="bottom"
+                    android:weightSum="1"
+                    android:layout_marginBottom="10dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Saket, New Delhi"
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="bottom"
+
+                        android:textSize="15sp"
+
+                        android:textColor="#fefefe"
+                        android:layout_weight="0.86"
+                        />
+
+
+                </LinearLayout>
+        </LinearLayout>
+
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_weight="0.08">
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="1dp"
+            android:background="#A4A29F"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#505050"
+            android:textSize="15sp"
+
+
+            android:text="  Rate your experience  "/>
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="1dp"
+            android:background="#A4A29F"
+
+           />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/my">
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+
+        android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_weight="0.08">
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="1dp"
+            android:background="#A4A29F"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#505050"
+            android:textSize="15sp"
+
+
+            android:text="  Leave a comment  "/>
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="1dp"
+            android:background="#A4A29F"
+
+            />
+
+    </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/my"
+        android:layout_margin="10dp"
+        android:lines="4"
+        android:drawablePadding="5dp"
+        android:gravity="start"
+        android:hint="Text here..."
+        android:textColorHint="#b6b6b6" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="SUBMIT"
+        android:textColor="#fefefe"
+        android:background="@drawable/orange"/>
+
+
+
+
+</LinearLayout>
