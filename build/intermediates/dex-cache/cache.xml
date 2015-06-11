@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Jlabs\AppData\Local\Android_Sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jar="F:\Android Projects\Filters\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-3478f25fba51f11d09a8c118e4d9e53084bd6957.jar" />
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\Android Projects\Filters\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0e8f553fe8daaafe750869a3bf868ee9421c7004.jar" />
     </item>
     <item
-        jar="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jar="F:\Android Projects\Filters\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\pre-dexed\debug\classes-5e128a36372a5bc6193199698ffb2bf5b2538300.jar" />
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\Android Projects\Filters\app\build\intermediates\pre-dexed\debug\classes-55d5419f4e545ec7fe92ce9affa5f876f50f843b.jar" />
     </item>
     <item
-        jar="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jar="C:\Users\Jlabs\AppData\Local\Android_Sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-e4fc760e01ac0785e7e043669982ec1e9651a556.jar" />
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="F:\Android Projects\Filters\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-8596b831d32bdce358d3dd4ff8556c4775565235.jar" />
     </item>
     <item
-        jar="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jar="F:\Android Projects\Filters\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="C:\Users\Jlabs\perkkx_app\perkkx\app\build\intermediates\pre-dexed\debug\classes-5f806ef04d44ae7fac0722aaad9ec5790fc94e98.jar" />
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\Android Projects\Filters\app\build\intermediates\pre-dexed\debug\classes-1af92d8e1b82d09ba1671703e271b7f4d4250461.jar" />
     </item>
 
 </items>

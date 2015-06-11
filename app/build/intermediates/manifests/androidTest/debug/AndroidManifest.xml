@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.outh2appforandroid.test">
+    package="com.example.jlabs.filters.test">
 
-    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="19" />
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="22" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.outh2appforandroid"
+                     android:targetPackage="com.example.jlabs.filters"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.example.outh2appforandroid"/>
+                     android:label="Tests for com.example.jlabs.filters"/>
 </manifest>
